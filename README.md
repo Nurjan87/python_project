@@ -1,2 +1,2 @@
 # python_project
-learnin python
+learning python
